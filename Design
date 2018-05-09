@@ -106,6 +106,12 @@ wiki：
   web端实现的思路参考：
       https://github.com/sigalor/whatsapp-web-reveng
       
+      
+user_id_info
+user_id_friend
+user_id_message
+sum_user
+      
 
 
 
